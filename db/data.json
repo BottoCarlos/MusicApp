@@ -1,0 +1,34 @@
+{
+    "discos": [
+      {
+        "id": 1,
+        "name": "dark side of the moon",
+        "artist": "Pink Floyd",
+        "year": 1973,
+        "genre": "Rock",
+        "price": 19.99,
+        "stock": 100,
+        "available": true
+      },
+      {
+        "id": 2,
+        "name": "Thriller",
+        "artist": "Michael Jackson",
+        "year": 1982,
+        "genre": "Pop",
+        "price": 24.99,
+        "stock": 0,
+        "available": false
+      },
+      {
+        "id": 3,
+        "name": "El mal querer",
+        "artist": "Rosalía",
+        "year": 2018,
+        "genre": "Pop",
+        "price": 29.99,
+        "stock": 50,
+        "available": true
+      }
+    ]
+}
